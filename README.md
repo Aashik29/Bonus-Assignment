@@ -29,6 +29,9 @@ Late submissions not accepted.
 
 
 Assignment Tasks
+
+
+
 1. Question Answering with Transformers (Hugging Face)
 You’ll build a basic QA system using Hugging Face’s transformers and torch.
 Tasks:
@@ -41,6 +44,8 @@ Swap in a custom model like deepset/roberta-base-squad2.
 
 
 Write your own context and ask two questions with expected scores > 0.70.
+
+
 
 
 2. Conditional GAN for Digit Generation
